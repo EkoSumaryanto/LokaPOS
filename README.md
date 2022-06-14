@@ -1,0 +1,2 @@
+# LokaPOS
+Pengembangan Aplikasi POS 
